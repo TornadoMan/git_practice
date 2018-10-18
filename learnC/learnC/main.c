@@ -7,10 +7,12 @@
 //
 
 #include <stdio.h>
+#include "crossRoad.h"
 
 int main(int argc, const char * argv[])
 {
     // insert code here...
     printf("jeffWoo say:Hello, World!\n");
+    cur_time();
     return 0;
 }
